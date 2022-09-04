@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://helper:helper@cluster0.2h5hpnk.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "jwtsecrettoken"
+}
